@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Desktop/Real%20word%20project/chicken-disease-classification/mlruns/0/7b84b35cc4f747079f5bbd09d7a81faf/artifacts
+end_time: 1735142872108
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b84b35cc4f747079f5bbd09d7a81faf
+run_name: nosy-turtle-215
+run_uuid: 7b84b35cc4f747079f5bbd09d7a81faf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735142848899
+status: 4
+tags: []
+user_id: HP
