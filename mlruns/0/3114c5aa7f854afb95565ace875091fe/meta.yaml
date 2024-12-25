@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Desktop/Real%20word%20project/chicken-disease-classification/mlruns/0/3114c5aa7f854afb95565ace875091fe/artifacts
+end_time: 1735142146962
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3114c5aa7f854afb95565ace875091fe
+run_name: ambitious-ape-797
+run_uuid: 3114c5aa7f854afb95565ace875091fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735142127774
+status: 4
+tags: []
+user_id: HP

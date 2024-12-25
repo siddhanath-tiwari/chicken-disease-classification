@@ -14,5 +14,4 @@ Flask-Cors
 mlflow==2.2.2
 dagshub
 dvc
-
 -e .
