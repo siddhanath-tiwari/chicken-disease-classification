@@ -6,6 +6,9 @@ import mlflow
 import mlflow.keras
 from urllib.parse import urlparse
 
+import dagshub
+dagshub.init(repo_owner='siddhanath-tiwari', repo_name='chicken-disease-classification', mlflow=True)
+
 
 class Evaluation:
     def __init__(self, config: EvaluationConfig):
